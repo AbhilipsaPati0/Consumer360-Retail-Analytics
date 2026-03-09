@@ -72,7 +72,7 @@ rfm.to_csv("../Data/Cleaned data/rfm_final.csv", index=False)
 print("RFM Data Saved")
 
 # -----------------------------
-# 7. Market Basket Analysis
+# 7. Market Basket Analysis.
 # -----------------------------
 basket = pd.crosstab(df['order_id'], df['product_name'])
 
