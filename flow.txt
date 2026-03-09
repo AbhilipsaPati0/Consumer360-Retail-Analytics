@@ -1,0 +1,31 @@
+Raw Data
+(Customers, Orders, Products)
+        │
+        ▼
+Data Cleaning & Preparation
+(Remove nulls, fix formats)
+        │
+        ▼
+Data Integration
+(SQL Star Schema + Joins)
+        │
+        ▼
+Customer Analytics
+(RFM Calculation)
+        │
+        ▼
+Customer Segmentation
+(Champions, Loyal, Potential,
+At Risk, Lost, then churn analysis)
+        │
+        ▼
+Market Basket Analysis
+(Apriori Algorithm)
+        │
+        ▼
+Insights & Visualization
+(Python Charts + Power BI Dashboard)
+        │
+        ▼
+Automation Pipeline
+(Scheduled Python Script)
